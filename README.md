@@ -227,3 +227,31 @@ If you encounter any issues or have questions:
 ---
 
 **Happy Reading! 📚✨**
+
+## Screenshots
+![WhatsApp Image 2025-09-27 at 16 50 12_63bc9184](https://github.com/user-attachments/assets/86c3cfa8-8552-40ef-858b-ef95b578a6ed)
+
+![WhatsApp Image 2025-09-27 at 16 50 26_5ecb94a1](https://github.com/user-attachments/assets/4e0b93b1-667d-428d-a8ed-c9872bee9fee)
+
+![WhatsApp Image 2025-09-27 at 16 50 44_cf0c53ce](https://github.com/user-attachments/assets/699ae423-9050-4924-85c3-5ddf6adddcac)
+
+![WhatsApp Image 2025-09-27 at 16 50 58_f7d54c68](https://github.com/user-attachments/assets/45adef7e-e628-468a-af15-4ba1630e72c7)
+
+![WhatsApp Image 2025-09-27 at 16 51 41_cb1dd3b1](https://github.com/user-attachments/assets/83555a41-fb2b-405c-bbbc-1ffbb3c3e8ef)
+
+![WhatsApp Image 2025-09-27 at 16 52 01_8072935e](https://github.com/user-attachments/assets/503ee02a-5e1a-4af7-850a-20c77f7af304)
+
+![WhatsApp Image 2025-09-27 at 16 53 11_45dffee3](https://github.com/user-attachments/assets/7e235fc0-b0eb-4cd6-b01d-2601a46571d6)
+
+![WhatsApp Image 2025-09-27 at 16 53 43_eab90b09](https://github.com/user-attachments/assets/77e81013-ae16-4038-8710-d13eb1da1c30)
+
+![WhatsApp Image 2025-09-27 at 16 54 31_b0cc2005](https://github.com/user-attachments/assets/9a730e7b-9149-4590-b742-730ef8e1d0d5)
+
+![WhatsApp Image 2025-09-27 at 16 54 46_d4299de1](https://github.com/user-attachments/assets/e731c9db-eb6a-41e8-afde-81bd4fe0f772)
+
+
+
+
+
+
+
