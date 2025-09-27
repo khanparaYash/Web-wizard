@@ -80,19 +80,6 @@ A comprehensive library management system built with the MERN stack, featuring m
    - Frontend: http://localhost:5173
    - Backend API: http://localhost:4000
 
-## 🔑 Default Login Credentials
-
-### Admin Account
-- **Email**: admin@library.com
-- **Password**: admin123
-
-### Student Accounts
-- **Email**: john@student.com
-- **Password**: student123
-- **Email**: jane@student.com
-- **Password**: student123
-- **Email**: mike@student.com
-- **Password**: student123
 
 ## 📁 Project Structure
 
