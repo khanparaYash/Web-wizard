@@ -228,29 +228,36 @@ If you encounter any issues or have questions:
 **Happy Reading! 📚✨**
 
 ## Screenshots
+
+##Students pages
 ![WhatsApp Image 2025-09-27 at 16 50 12_63bc9184](https://github.com/user-attachments/assets/86c3cfa8-8552-40ef-858b-ef95b578a6ed)
+This Student Dashboard is the user's personal hub, showcasing active borrows, real-time announcements (like "java book coming"), and personalized book recommendations. Its dark-mode UI/UX prioritizes user engagement and quick access to essential library information.
 
 ![WhatsApp Image 2025-09-27 at 16 50 26_5ecb94a1](https://github.com/user-attachments/assets/4e0b93b1-667d-428d-a8ed-c9872bee9fee)
+This page displays the Book Details for To Kill a Mockingbird, showing the author, category, and a clear "Not Available" status due to 0 available copies. It integrates user features like Rating (currently 0.0) and uses the same modern dark-mode UI as the dashboard.
 
 ![WhatsApp Image 2025-09-27 at 16 50 44_cf0c53ce](https://github.com/user-attachments/assets/699ae423-9050-4924-85c3-5ddf6adddcac)
+This Book Catalog/Menu displays the library's available books in a grid, showing the title, author, and genre for each. Users can quickly see the real-time availability and choose to "View Details" or "Borrow" directly, with the "Borrow" button grayed out for unavailable books.
 
 ![WhatsApp Image 2025-09-27 at 16 50 58_f7d54c68](https://github.com/user-attachments/assets/45adef7e-e628-468a-af15-4ba1630e72c7)
+This image showcases the Digital Borrow Slip, a PDF generated instantly after a successful book transaction. It clearly details the book (Pride and Prejudice), the borrower's name/email, the Borrow Date, and the crucial Due Date (10/4/2025). The QR code embedded in the slip streamlines the return process for the admin, making it paperless and efficient.
 
 ![WhatsApp Image 2025-09-27 at 16 51 41_cb1dd3b1](https://github.com/user-attachments/assets/83555a41-fb2b-405c-bbbc-1ffbb3c3e8ef)
+This describes the Gamification Points System, which rewards or penalizes users based on their activity to encourage good library habits. Students earn +10 points for borrowing a book, +5 points for returning it on time, and face a -2 point deduction per day for late returns.
 
 ![WhatsApp Image 2025-09-27 at 16 52 01_8072935e](https://github.com/user-attachments/assets/503ee02a-5e1a-4af7-850a-20c77f7af304)
+This page is the Book Donation Module, allowing students to "Share your books with the library community" by filling out a simple form. This feature promotes community engagement, and after admin approval, the donor is rewarded with bonus points as part of the gamification system.
+
+##Admin Pages
 
 ![WhatsApp Image 2025-09-27 at 16 53 11_45dffee3](https://github.com/user-attachments/assets/7e235fc0-b0eb-4cd6-b01d-2601a46571d6)
+This Admin Dashboard is the central control panel, providing an overview of library operations and key metrics. It displays critical stats like Total Books, Active Borrows, and Overdue Books, alongside an action card for Pending Renewals that allows for immediate approval or decline of requests.
 
 ![WhatsApp Image 2025-09-27 at 16 53 43_eab90b09](https://github.com/user-attachments/assets/77e81013-ae16-4038-8710-d13eb1da1c30)
+This page is the Admin Announcement Creation interface, where administrators can easily publish library-wide notifications. The screenshot shows the admin composing a new announcement with the title "python" and a message "coming soon in 3," which will be instantly pushed to all student dashboards.
 
 ![WhatsApp Image 2025-09-27 at 16 54 31_b0cc2005](https://github.com/user-attachments/assets/9a730e7b-9149-4590-b742-730ef8e1d0d5)
+This page features the Smart QR Scanner, the dedicated interface for administrators to perform seamless book return processing. The system offers an "Advanced QR code scanning technology" where the admin can choose between a "Camera Scan" (using a webcam/scanner) or "Manual Entry" to quickly retrieve the borrow record from the student's digital slip, mark the book as returned, and apply any necessary gamification points.
 
 ![WhatsApp Image 2025-09-27 at 16 54 46_d4299de1](https://github.com/user-attachments/assets/e731c9db-eb6a-41e8-afde-81bd4fe0f772)
-
-
-
-
-
-
-
+This screenshot displays the Borrow Record Details page, which appears after an admin scans a book's QR code. It instantly retrieves and presents all essential information: Book Details (Pride and Prejudice), Student Details (name, email), the original Borrow Date, the crucial Due Date, and the current Status ("Borrowed"). The central "Process Return" button allows the admin to finalize the transaction with a single click.
