@@ -194,16 +194,15 @@ MERN-Library/
 - Email reminders sent 2 days before due date
 - Configurable email templates and scheduling
 
-## 🚀 Deployment
+## 🚀 Developers
 
-### Backend Deployment
-1. Set up MongoDB Atlas or local MongoDB
-2. Configure environment variables
-3. Deploy to platforms like Heroku, Railway, or DigitalOcean
+Veer Bhalodia - Frontend
 
-### Frontend Deployment
-1. Build the production bundle: `npm run build`
-2. Deploy to platforms like Vercel, Netlify, or GitHub Pages
+Tirth Gondaliya - Frontend
+
+Yash Khanpara - Backend
+
+Kunj Meghpara - Backend
 
 ## 🤝 Contributing
 
