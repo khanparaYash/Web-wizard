@@ -229,7 +229,7 @@ If you encounter any issues or have questions:
 
 ## Screenshots
 
-##Students pages
+## Students pages
 ![WhatsApp Image 2025-09-27 at 16 50 12_63bc9184](https://github.com/user-attachments/assets/86c3cfa8-8552-40ef-858b-ef95b578a6ed)
 This Student Dashboard is the user's personal hub, showcasing active borrows, real-time announcements (like "java book coming"), and personalized book recommendations. Its dark-mode UI/UX prioritizes user engagement and quick access to essential library information.
 
@@ -248,7 +248,7 @@ This describes the Gamification Points System, which rewards or penalizes users 
 ![WhatsApp Image 2025-09-27 at 16 52 01_8072935e](https://github.com/user-attachments/assets/503ee02a-5e1a-4af7-850a-20c77f7af304)
 This page is the Book Donation Module, allowing students to "Share your books with the library community" by filling out a simple form. This feature promotes community engagement, and after admin approval, the donor is rewarded with bonus points as part of the gamification system.
 
-##Admin Pages
+## Admin Pages
 
 ![WhatsApp Image 2025-09-27 at 16 53 11_45dffee3](https://github.com/user-attachments/assets/7e235fc0-b0eb-4cd6-b01d-2601a46571d6)
 This Admin Dashboard is the central control panel, providing an overview of library operations and key metrics. It displays critical stats like Total Books, Active Borrows, and Overdue Books, alongside an action card for Pending Renewals that allows for immediate approval or decline of requests.
